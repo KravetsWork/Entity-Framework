@@ -1,5 +1,8 @@
 ﻿namespace EF6_3.Example1_
 {
+    /// <summary>
+    /// Class that describes the model of football players.
+    /// </summary>
     class Player
     {
         public int Id { get; set; }

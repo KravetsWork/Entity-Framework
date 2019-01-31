@@ -4,6 +4,9 @@ using System.Windows.Forms;
 
 namespace EF6_3.Example1_
 {
+    /// <summary>
+    /// The main form that uses Create, Read, Update, Delete operations.
+    /// </summary>
     public partial class CRUD : Form
     {
         // Read
